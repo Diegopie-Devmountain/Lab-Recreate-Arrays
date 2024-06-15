@@ -77,13 +77,6 @@ push(// your param(s) here) {
 }
 ```
 
-<details>
-<summary>Click to expand</summary>
-```js
-
-```
-</details>
-
 ### Solution
 
 <details>
